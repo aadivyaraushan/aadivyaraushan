@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aadivya Raushan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer and amateur designer studying in the UAE</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadivyaraushan" alt="aadivyaraushan" /></a> </p>
 
@@ -9,18 +9,18 @@
 
 - 👨‍💻 All of my projects are available at [https://aadivyaraushan.github.io/portfolio-website/](https://aadivyaraushan.github.io/portfolio-website/)
 
-- 💬 Ask me about **react, javascript, firebase**
+- 💬 Ask me about **react, css3, javascript, firebase**
 
-- 📫 How to reach me **aadivya.raushan@gmail.com**
+- 📫 Reach me through **aadivya.raushan@gmail.com**
 
-- ⚡ Fun fact **I like videogames too much.**
+- ⚡ Fun fact: **I like videogames too much.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/aadivyaraushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aadivyaraushan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13218215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13218215" height="30" width="40" /></a>
 <a href="https://instagram.com/aadivya.r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aadivya.r" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kai" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/kaimemes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kai" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ssdear" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ssdear" height="30" width="40" /></a>
 </p>
 
