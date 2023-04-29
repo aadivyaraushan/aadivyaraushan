@@ -1,27 +1,22 @@
 <h1 align="center">Hi 👋, I'm Aadivya Raushan</h1>
-<h3 align="center">A passionate developer and amateur designer studying in the UAE</h3>
+<h3 align="center">An imaginative software developer studying in the UAE</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadivyaraushan" alt="aadivyaraushan" /></a> </p>
 
-- 🔭 I’m currently working on [Nocrastination](https://github.com/aadivyaraushan/nocrastination)
+- 🔭 I’m currently working on [Supply Chain Assistant](https://github.com/aadivyaraushan/supply-chain-blockchain) and [Nocrastination](https://github.com/aadivyaraushan/nocrastination)
 
-- 🌱 I’m currently learning **NodeJS**
+- 👨‍💻 All of my projects are available right here on GitHub.
 
-- 👨‍💻 All of my projects are available at [https://aadivyaraushan.github.io/portfolio-website/](https://aadivyaraushan.github.io/portfolio-website/)
+- 💬 Ask me about **react, css3, javascript, firebase, blockchain**
 
-- 💬 Ask me about **react, css3, javascript, firebase**
+- 📫 Reach me through **ssdear@gmail.com**
 
-- 📫 Reach me through **aadivya.raushan@gmail.com**
-
-- ⚡ Fun fact: **I like videogames too much.**
+- ⚡ Fun fact: **I like videogames a lot.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/aadivyaraushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aadivyaraushan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13218215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13218215" height="30" width="40" /></a>
-<a href="https://instagram.com/aadivya.r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aadivya.r" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kaimemes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kai" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ssdear" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ssdear" height="30" width="40" /></a>
+<a href="https://leetcode.com/user3784b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ssdear" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -43,24 +38,29 @@
 <br></br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" width="100"/> </a>
 <br></br>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" width="100"/> </a>
-<br></br>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" width="100"/> </a> 
 <br></br>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" width="100"/> </a> 
 <br></br>
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="reactnative" width="100"/> </a></p>
+<a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws-amplify" width="100"/> </a></p>
+<a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="solidity" width="100"/> </a></p>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=whitee" alt="nextjs" width="100"/> </a></p>
+<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="ethereum" width="100"/> </a></p>
+
 
 <h4 align="left">Other:</h4>
-<p align="left">   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="100"/> </a> 
+<p align="left">   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" width="100"/> </a> 
   <br></br>
   
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="100"/> </a> 
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" width="100"/> 
+  <br></br>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp" width="100"/> </a> 
    <br></br>
    
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="100"/> </a> 
+ <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/c++-%2300599Csvg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" width="100"/> </a> 
    <br></br>
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" width="100"/> </a> 
    </p>
    
 
