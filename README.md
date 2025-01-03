@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadivyaraushan" alt="aadivyaraushan" /></a> </p>
 
-- 🔭 I’m currently working on [Supply Chain Assistant](https://github.com/aadivyaraushan/supply-chain-blockchain) and [Nocrastination](https://github.com/aadivyaraushan/nocrastination)
+- 🔭 I’m currently working on [LessonGPT](https://github.com/aadivyaraushan/lesson-plan-generator)
 
 - 👨‍💻 All of my projects are available right here on GitHub.
 
-- 💬 Ask me about **react, css3, javascript, firebase, blockchain**
+- 💬 Ask me about **generative AI, firebase, blockchain and javascript**
 
 - 📫 Reach me through **ssdear@gmail.com**
 
-- ⚡ Fun fact: **I like videogames a lot.**
+- ⚡ Fun fact: **I'm a huge hip-hop head**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
