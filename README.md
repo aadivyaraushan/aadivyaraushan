@@ -1,44 +1,66 @@
 # Hi, I’m Aadivya 👋
 
-UIUC CS student building **verifiable AI systems, agentic LLM workflows, and production-grade web tooling** at the boundary of formal methods and deep learning. [page:1]
+I am a **Computer Science Sophomore** at the **University of Illinois Urbana-Champaign (UIUC)** (GPA 3.8/4.0).
 
-- 🔭 Currently: research on deterministic / verifiable LLM workflows at **FOCAL Lab (UIUC)** and shipping tools like **Plan‑Tain** and **Clara.ai**. [page:1]
-- 🧠 Interests: formal languages for AI, agentic systems, GPU/cluster experimentation, and full‑stack infra that makes these usable. [page:1]
-- 📍 Based in Champaign, originally from Dubai.
+I am a **product-focused engineer** building **verifiable AI systems** and **scalable startups**. I specialize in bridging the gap between rigorous formal methods and production-grade web architecture.
 
----
-
-## Featured projects
-
-Here are a few repos that best represent what I work on:
-
-- **[lesson-plan-generator](https://github.com/aadivyaraushan/lesson-plan-generator)** – _LessonGPT_  
-  LangChain + OpenAI pipeline that generates structured, syllabus‑aligned lesson plans; deployed for schools in Dubai and used by 120+ educators to create 1,300+ lessons. [page:1]
-
-- **[ai-internship-finder](https://github.com/aadivyaraushan/ai-internship-finder)** – _AI internship outreach agent_  
-  Agentic workflow that automates cold outreach for referrals using LLMs, APIs, and a modern TypeScript/Next.js stack. [page:1]
-
-- **[plan-tain](https://github.com/aadivyaraushan/plan-tain)** – _Constraint-based class scheduling_  
-  Constraint‑satisfaction engine and web app for UIUC students, generating non‑overlapping schedules and supporting social/peer features. [page:1]
-
-- **[Clara.ai](https://github.com/NainaMKumar/Clara.ai)** – _Collaborative AI networking tool_  
-  Contributions to an AI agent that streamlines networking and outreach, tying LLMs into a practical product surface. [page:1]
-
-You can also browse my other repos for earlier work (blockchain, exam correctors, and more). [page:1]
+- 🚀 **Building:** Currently shipping **Refr** (AI recruiting agent) and **Plan-Tain** (scheduling platform for UIUC students).
+- 🔭 **Research:** Undergraduate Researcher at **FOCAL Lab**, working on formal verification for agentic workflows.
+- 📍 **Location:** Champaign, IL / Dubai, UAE.
 
 ---
 
-## What I like working with
+## Featured Projects & Startups
 
-- **Languages:** Python, TypeScript/JavaScript, C/C++, SQL. [page:1]
-- **AI / systems:** PyTorch, Ray, LangChain/LangGraph, CUDA (basic), multi‑GPU Linux clusters. [page:1]
-- **Web / infra:** Next.js, React, PostgreSQL, Firebase, AWS Amplify, Vercel, Docker, Linux. [page:1]
+### 🤖 [ai-internship-finder (Refr)](https://github.com/aadivyaraushan/ai-internship-finder)
+**AI Agent for Automated Networking**
+* **Production Architecture:** Built the MVP using a robust **Next.js 14 / TypeScript** stack with **PostgreSQL**, currently developing product-market fit with early users.
+* **Real-Time Streaming:** Architected a pipeline using **Server-Sent Events (SSE)** to push asynchronous AI agent states to the client, solving latency issues in long-running LLM workflows.
+* **Agentic Workflow:** Engineered autonomous agents using **LangGraph**, **Claude**, and **OpenAI** to automate professional outreach and referral matching.
+
+### 📅 [plan-tain](https://github.com/aadivyaraushan/plan-tain)
+**Constraint-Satisfaction Class Scheduler**
+* **Algorithm:** Architected a **constraint-satisfaction engine** that generates non-overlapping schedules by pruning search spaces based on user constraints (GPA data, professor ratings, etc).
+* **Product Lifecycle:** Managed the full product lifecycle from prototyping to beta, achieving high retention with 80% of early testers saying they'd regret not being able to use the app.
+* **Testing:** Implemented **Jest** and **Playwright** pipelines for unit and E2E validation to ensure reliability during rapid deployments.
+
+### 📚 [lesson-plan-generator](https://github.com/aadivyaraushan/lesson-plan-generator)
+**RAG-based Educational Pipeline (LessonGPT)**
+* **Scale:** A generative text pipeline that synthesized **1,300+ syllabus-aligned lesson plans** for **120+ educators**, reducing prep time by 70%.
+* **Awards/Recognition:** Finalist (Top 8/300+) in GEMS Global Innovation Challenge; showcased at GITEX Global (200k+ attendees); presented to the UAE government; featured on Gulf News and by GEMS Education India recognized by CEO of GEMS Education.
 
 ---
 
-## Elsewhere
+## Research
 
-- 💼 LinkedIn: [linkedin.com/in/aadivya-raushan](https://linkedin.com/in/aadivya-raushan)  
-- 📧 Contact: listed on my resume / profile
+**FOCAL Lab @ UIUC** _(July 2025 – Present)_
+* Prototyping autonomous agentic workflows that integrate **deterministic finite automata**, **formal grammars**, and deep learning frameworks (Ray, PyTorch) to build formally verifiable AI.
 
-Always happy to chat about **verifiable AI, agentic workflows, and system design for LLM-heavy apps**—feel free to open an issue or reach out. [page:1]
+**Independent Research** _(Published in IJNRD)_
+* Authored a peer-reviewed study on gamification and adolescent productivity.
+* Conducted cross-sectional data analysis using Python and the **Wilcoxon rank-sum test**.
+
+**Cambridge Centre for International Research** _(Summer 2023)_
+* **Spotlight Scholar:** Explored quantum superposition and **Shor’s algorithm** through Python-based **Qiskit** simulations.
+
+---
+
+## Technical Stack
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | TypeScript/JavaScript (Proficient), Python (Intermediate), C++, SQL, HTML/CSS |
+| **Product & Web** | Next.js, React.js, Node.js, Tailwind CSS, Real-Time Systems (SSE), WebSockets |
+| **AI & ML** | PyTorch, LangChain/LangGraph, Ray, OpenAI API, Hugging Face Transformers |
+| **Infra & Database** | PostgreSQL, Firebase, Docker, AWS Amplify, Vercel, Git |
+| **Testing** | Jest, Playwright |
+
+---
+
+## Connect
+
+- 💼 **LinkedIn:** [linkedin.com/in/aadivya-raushan](https://linkedin.com/in/aadivya-raushan)
+- 📧 **Email:** raushan2@illinois.edu
+- 𝕏 **X:** [https://x.com/aadivyaraushan](https://x.com/aadivyaraushan)
+
+_Always happy to connect to discuss startup engineering, verifiable AI, and system design for LLM-heavy apps._
