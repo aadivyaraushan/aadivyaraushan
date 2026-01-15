@@ -37,7 +37,7 @@ Outside of being a student, I'm **founder**, **engineer** and **AI researcher**.
 * Prototyping autonomous agentic workflows that integrate **deterministic finite automata**, **formal grammars**, and deep learning frameworks (Ray, PyTorch) to build formally verifiable AI.
 
 **Independent Research** _(Published in IJNRD)_
-* Authored a peer-reviewed study on gamification and adolescent productivity.
+* Authored a peer-reviewed study on gamification and adolescent productivity (published [here](https://ijnrd.org/viewpaperforall.php?paper=IJNRD2304333)).
 * Conducted cross-sectional data analysis using Python and the **Wilcoxon rank-sum test**.
 
 **Cambridge Centre for International Research** _(Summer 2023)_
