@@ -1,8 +1,8 @@
 # Hi, I’m Aadivya 👋
 
-I am a **Computer Science Sophomore** at the **University of Illinois Urbana-Champaign (UIUC)** (GPA 3.8/4.0).
+I am a **Computer Science Freshman** at the **University of Illinois Urbana-Champaign (UIUC)** (GPA 3.8/4.0).
 
-I am a **product-focused engineer** building **verifiable AI systems** and **scalable startups**. I specialize in bridging the gap between rigorous formal methods and production-grade web architecture.
+Outside of being a student, I'm **founder**, **engineer** and **AI researcher**. Currently:
 
 - 🚀 **Building:** Currently shipping **Refr** (AI recruiting agent) and **Plan-Tain** (scheduling platform for UIUC students).
 - 🔭 **Research:** Undergraduate Researcher at **FOCAL Lab**, working on formal verification for agentic workflows.
