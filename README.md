@@ -1,32 +1,44 @@
-# Hi, I’m Aadivya
+# Hi, I’m Aadivya 👋
 
-UIUC CS student building **verifiable AI systems, agentic LLM workflows, and production-grade full‑stack tools** at the boundary of formal methods and deep learning. [page:1]
+UIUC CS student building **verifiable AI systems, agentic LLM workflows, and production-grade web tooling** at the boundary of formal methods and deep learning. [page:1]
 
----
-
-## What I work on
-
-- **Verifiable & deterministic AI**  
-  Designing workflows that combine formal languages, deterministic structures, and deep learning to push LLMs toward predictable, checkable behavior. [page:1]
-
-- **Agentic LLM systems**  
-  Building multi-step AI agents that orchestrate tools, APIs, and context pipelines to automate complex tasks end to end. [page:1]
-
-- **Full‑stack infra for AI**  
-  Shipping systems with Next.js, TypeScript, PostgreSQL, and cloud tooling that can actually be used: low-latency backends, real-time UX, and robust data models. [page:1]
+- 🔭 Currently: research on deterministic / verifiable LLM workflows at **FOCAL Lab (UIUC)** and shipping tools like **Plan‑Tain** and **Clara.ai**. [page:1]
+- 🧠 Interests: formal languages for AI, agentic systems, GPU/cluster experimentation, and full‑stack infra that makes these usable. [page:1]
+- 📍 Based in Champaign, originally from Dubai.
 
 ---
 
-## Recent highlights
+## Featured projects
 
-- **LessonGPT** – AI lesson planner deployed in Dubai schools, using a LangChain-based context pipeline to generate 1,300+ structured, syllabus-aligned lesson plans for 120+ educators. [page:1]
-- **FOCAL Lab (UIUC)** – Research on constraining probabilistic LLMs with formal methods to make their behavior more deterministic and verifiable. [page:1]
-- **Plan‑Tain, Clara.ai, and related projects** – Constraint-based scheduling, internship/referral automation, and other agentic systems built with modern web stacks and AI tooling. [page:1]
+Here are a few repos that best represent what I work on:
+
+- **[lesson-plan-generator](https://github.com/aadivyaraushan/lesson-plan-generator)** – _LessonGPT_  
+  LangChain + OpenAI pipeline that generates structured, syllabus‑aligned lesson plans; deployed for schools in Dubai and used by 120+ educators to create 1,300+ lessons. [page:1]
+
+- **[ai-internship-finder](https://github.com/aadivyaraushan/ai-internship-finder)** – _AI internship outreach agent_  
+  Agentic workflow that automates cold outreach for referrals using LLMs, APIs, and a modern TypeScript/Next.js stack. [page:1]
+
+- **[plan-tain](https://github.com/aadivyaraushan/plan-tain)** – _Constraint-based class scheduling_  
+  Constraint‑satisfaction engine and web app for UIUC students, generating non‑overlapping schedules and supporting social/peer features. [page:1]
+
+- **[Clara.ai](https://github.com/NainaMKumar/Clara.ai)** – _Collaborative AI networking tool_  
+  Contributions to an AI agent that streamlines networking and outreach, tying LLMs into a practical product surface. [page:1]
+
+You can also browse my other repos for earlier work (blockchain, exam correctors, and more). [page:1]
 
 ---
 
-## What I’m looking for
+## What I like working with
 
-- Research and engineering on **formal-methods-inspired AI systems**. [page:1]  
-- Work on **agentic workflows and LLM infrastructure** that touches real users. [page:1]  
-- Collaborations that mix **theory-heavy AI** with **serious systems and product thinking**. [page:1]
+- **Languages:** Python, TypeScript/JavaScript, C/C++, SQL. [page:1]
+- **AI / systems:** PyTorch, Ray, LangChain/LangGraph, CUDA (basic), multi‑GPU Linux clusters. [page:1]
+- **Web / infra:** Next.js, React, PostgreSQL, Firebase, AWS Amplify, Vercel, Docker, Linux. [page:1]
+
+---
+
+## Elsewhere
+
+- 💼 LinkedIn: [linkedin.com/in/aadivya-raushan](https://linkedin.com/in/aadivya-raushan)  
+- 📧 Contact: listed on my resume / profile
+
+Always happy to chat about **verifiable AI, agentic workflows, and system design for LLM-heavy apps**—feel free to open an issue or reach out. [page:1]
