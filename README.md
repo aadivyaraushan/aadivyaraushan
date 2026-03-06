@@ -4,7 +4,7 @@ I am a **Computer Science Freshman** at the **University of Illinois Urbana-Cham
 
 Outside of being a student, I'm **founder**, **engineer** and **AI researcher**. Currently:
 
-- 🚀 **Building:** Currently shipping **Refr** (AI recruiting agent) and **Plan-Tain** (scheduling platform for UIUC students).
+- 🚀 **Building:** Currently building **Anvil**, an automated customer discovery and acquisiton platform for early stage startups.
 - 🔭 **Research:** Undergraduate Researcher at **FOCAL Lab**, working on formal verification for agentic workflows.
 - 📍 **Location:** Champaign, IL / Dubai, UAE.
 
